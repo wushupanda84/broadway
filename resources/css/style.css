@@ -2,3 +2,22 @@ body {
   font-family: helvetica;
   text-align: center;
 }
+
+.header {
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.navigation {
+  list-style-type: none;
+}
+
+.navigation a {
+  color: white;
+  font-size: 18px;
+}
