@@ -21,3 +21,20 @@ h1 {
   color: white;
   font-size: 18px;
 }
+
+.sub-headlines {
+  font-weight: bold;
+  color: black;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
+}
