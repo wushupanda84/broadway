@@ -17,7 +17,7 @@ h1 {
   list-style-type: none;
 }
 
-.navigation a {
+.navigation a, .footer a {
   color: white;
   font-size: 18px;
 }
@@ -37,4 +37,15 @@ h3 {
 
 p {
   font-size: 14px;
+}
+
+.footer {
+  text-align: left;
+  background-color: gray;
+  font-size: 11px;
+  color: white;
+}
+
+.footer a {
+
 }
